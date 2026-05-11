@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "東京ノードから発信中",
 
 	// 站点 URL
-	site_url: "https://394000.xyz",
+	site_url: "https://223333333.xyz",
 
 	// 站点描述
 	description:
