@@ -72,7 +72,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 			{
 				name: "Gitee（作者目前没Gitee)",
-				url: "https://223333333.xyz",
+				url: "https://blog.223333333.xyz",
 				external: false,
 				icon: "fa7-brands:gitee",
 			},
