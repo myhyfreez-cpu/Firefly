@@ -71,9 +71,9 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				icon: "fa7-brands:github",
 			},
 			{
-				name: "Gitee（作者目前没Gitee)",
+				name: "Gitee（作者目前没Gitee,点击返回主页)",
 				url: "https://blog.223333333.xyz",
-				external: false,
+				external: true,
 				icon: "fa7-brands:gitee",
 			},
 			{
