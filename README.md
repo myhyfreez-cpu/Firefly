@@ -1,4 +1,14 @@
 
+# 本项目由 Topzx 基于 Firefly 进行二次开发
+
+> 个人定制版本，主要更换了背景图片，新增了若干文字接口，适配个人博客使用。所有代码已开源，欢迎参考。
+>
+> 原项目：[Firefly](https://github.com/CuteLeaf/Firefly)（夏叶基于 Fuwari 二次开发）
+
+---
+
+以下为原项目的简介：
+
 <img src="./docs/images/1131.png" width = "350" height = "500" alt="Firefly" align=right />
 
 <div align="center">
@@ -280,6 +290,10 @@ comment: true    # 是否允许评论
 >  <img src="https://contrib.rocks/image?repo=saicaca/fuwari" />
 ></a>
 
+### 本二次开发版本的贡献者
+
+> （留空，欢迎补充）
+
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CuteLeaf/Firefly&type=Date)](https://star-history.com/#CuteLeaf/Firefly&Date)
@@ -293,3 +307,4 @@ comment: true    # 是否允许评论
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+``` 

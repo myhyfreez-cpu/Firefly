@@ -5,7 +5,7 @@ export const fontConfig = {
 	// 是否预加载字体文件
 	preload: true,
 	// 当前选择的字体，支持多个字体组合
-	selected: ["misans-regular"],
+	selected: ["zcool-xiaowei"],
 
 	// 字体列表
 	// 推荐使用可靠的 CDN 服务商提供的字体链接，它天然做了按需分片加载，且性能较好
@@ -69,6 +69,42 @@ export const fontConfig = {
 			weight: 600,
 			display: "swap" as const,
 		},
+
+		// Google Fonts - Mochiy Pop One (非常动漫风的字体)
+    	"mochiy-pop-one": {
+     		 id: "mochiy-pop-one",
+      		name: "Mochiy Pop One",
+     	 	src: "https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap",
+     	 	family: "Mochiy Pop One",
+      		display: "swap" as const,
+   		 },
+
+		     // Google Fonts - Potta One
+    	"potta-one": {
+      		id: "potta-one",
+      		name: "Potta One",
+      		src: "https://fonts.googleapis.com/css2?family=Potta+One&display=swap",
+      		family: "Potta One",
+      		display: "swap" as const,
+    	},
+
+		    // Google Fonts - ZCOOL KuaiLe (站酷快乐体，支持中文且极具动漫感)
+    	"zcool-kuaile": {
+      		id: "zcool-kuaile",
+      		name: "ZCOOL KuaiLe",
+      		src: "https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap",
+      		family: "ZCOOL KuaiLe",
+      		display: "swap" as const,
+    	},
+
+		    // Google Fonts - ZCOOL XiaoWei (站酷小薇体，笔画飘逸，更有日漫少年的精致感)
+    	"zcool-xiaowei": {
+      		id: "zcool-xiaowei",
+      		name: "ZCOOL XiaoWei",
+      		src: "https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap",
+      		family: "ZCOOL XiaoWei",
+      		display: "swap" as const,
+    	},
 	},
 
 	// 全局字体回退
