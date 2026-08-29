@@ -44,7 +44,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"https://tu.223333333.xyz/file/DesktopWallpaper/1787908038224_d1.webp",
 			"https://tu.223333333.xyz/file/DesktopWallpaper/1787908033513_d2.webp",
 			"https://tu.223333333.xyz/file/DesktopWallpaper/1787906041071_d3.webp",
-			"https://tu.223333333.xyz/file/DesktopWallpaper/1787909509148_d4.webp",
+			"https://tu.223333333.xyz/file/DesktopWallpaper/1787992430653_d4.avif",
 			"https://tu.223333333.xyz/file/DesktopWallpaper/1787906041945_d5.webp",
 			"https://tu.223333333.xyz/file/DesktopWallpaper/1787906040324_d6.webp",
 	],

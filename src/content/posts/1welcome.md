@@ -2,7 +2,7 @@
 title: 👋 你好，这里是 topzx 的存档点
 published: 2026-05-12
 description: 欢迎来到 topzx 的blog，这里记录了关于网络安全，以及各种新鲜玩意的折腾笔记。
-image: https://tu.223333333.xyz/file/2026-05-images/1787811836261_1welcome.avif
+image: https://tu.223333333.xyz/file/Material/1787994834414_m2026082902.webp
 tags: [欢迎]
 pinned: true
 category: 欢迎页
